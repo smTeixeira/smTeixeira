@@ -2,7 +2,7 @@
 
 👋 Olá, eu sou o Samuel, sou Desenvolvedor Front end e estudante de Engenharia de Software.
 
-👀 Tenho interesses pelas áreas de UX/UI, front-end, e muito disposto a aprender novas técnologia
+👀 Tenho interesses pelas áreas de desenvolvimento web e de software e muito disposto a aprender novas técnologia
 
 🌱 Atualmente estou a procura de me aperfeiçoar como desenvolvedor Front-end, porem estou aberto a qualquer oportunidade que possa agregar na minha carreira como programador. 
 ##
